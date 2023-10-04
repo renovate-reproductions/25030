@@ -7,6 +7,6 @@
     "test": "echo 'no tests needed - this can never break!'"
   },
   "dependencies": {
-    "lodash": "4.17.20"
+    "lodash": "^4.17.20"
   }
 }
