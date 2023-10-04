@@ -1,4 +1,5 @@
 {
+  "rangeStrategy": "replace",
   "lockFileMaintenance": {
     "enabled": true
   }
